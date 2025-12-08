@@ -21,5 +21,8 @@
 ### turnie App
 <img width="2250" height="1218" alt="app" src="https://github.com/user-attachments/assets/2c932807-79f6-4d18-ba61-c6c0980d6c1f" />
 
-### How to Use turnie App - YouTube
+### アプリとデバイスの接続
+![output](https://github.com/user-attachments/assets/7568fd22-c932-48b5-bf57-6f1f53e89588)
+
+### turnieアプリの使い方 - YouTube
 [![Demo Video](https://img.youtube.com/vi/lhrYZBltbN4/maxresdefault.jpg)](https://youtu.be/lhrYZBltbN4)
