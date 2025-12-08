@@ -9,5 +9,5 @@
   - turnie本体のファームウェア
   - iOSアプリからの書き込みを受信・turnie同士での通信
 - turnie-garber
-  -turnie本体の基板データ
+  - turnie本体の基板データ
   -必要部品および回路図
