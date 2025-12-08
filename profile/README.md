@@ -12,8 +12,12 @@
   - turnie本体の基板データ
   - 必要部品および回路図
 
-
+### turnie
 ![DSC00489](https://github.com/user-attachments/assets/5930f2ef-9754-4dc1-ba3e-441b133c1bd8)
 ![DSC00484](https://github.com/user-attachments/assets/605a1478-331b-4b57-ad7d-f4eb51eb0cef)
 
+### turnie App
+<img width="2250" height="1218" alt="app" src="https://github.com/user-attachments/assets/2c932807-79f6-4d18-ba61-c6c0980d6c1f" />
+
+### How to Use turnie App - YouTube
 [![Demo Video](https://img.youtube.com/vi/lhrYZBltbN4/maxresdefault.jpg)](https://youtu.be/lhrYZBltbN4)
